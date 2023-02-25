@@ -1,0 +1,25 @@
+#demo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+.btn{
+    width: 80px;
+    height: 50px;
+    background-color: rgba(0, 204, 255, 0.432);
+}
+#show{
+    width: 50%;
+    max-width: 900px;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.644);
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.exit{
+    width: 60px;
+    height: 40px;
+    background-color: darkcyan;
+    border-radius: 10px;
+}
